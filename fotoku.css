@@ -1,0 +1,17 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2021/01/18/13/18/wallpaper-5928106_1280.png);
+    background-size: cover;
+  }  
+  h1 {
+    color: rgb(255, 160, 122);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 70px;
+  }
+  p{
+    text-align: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 20pt;
+    color: rgb(255, 160, 122);
+  }
+  
